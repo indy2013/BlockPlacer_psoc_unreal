@@ -1,0 +1,17 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/indyp/Documents/Unreal Projects/BlockPlacer_psoc_unreal/Psoc_Blockplacer/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/indyp/Documents/Unreal Projects/BlockPlacer_psoc_unreal/Psoc_Blockplacer/Content/ThirdPerson/Blueprints/Block.uasset",
+				"C:/Users/indyp/Documents/Unreal Projects/BlockPlacer_psoc_unreal/Psoc_Blockplacer/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"C:/Users/indyp/Documents/Unreal Projects/BlockPlacer_psoc_unreal/Psoc_Blockplacer/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/0N/0AHVUDT6DV1YAPD0XPD6SY.uasset",
+				"C:/Users/indyp/Documents/Unreal Projects/BlockPlacer_psoc_unreal/Psoc_Blockplacer/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/indyp/Documents/Unreal Projects/BlockPlacer_psoc_unreal/Psoc_Blockplacer/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset"
+			]
+		}
+	]
+}
